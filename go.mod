@@ -1,3 +1,3 @@
-module github.com/devfile-samples/devfile-sample-go-basic
+module github.com/shin-noda/sample-go
 
 go 1.19
